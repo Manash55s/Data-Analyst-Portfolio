@@ -1,0 +1,65 @@
+📌 Project Overview:
+In this project, I created an HR Analytics Dashboard using Power BI. The goal was to help an organization improve employee performance and reduce attrition by providing valuable insights.
+
+📌Analysis Structure:
+
+In order to get valuable insights the following questions and points were considered during the data analysis process:
+
+⇨ Primary KPIs:
+   a. What are the total number of employees ?
+   b. What are the total number of attrition?
+   c. What is the attrition rate ?
+   d. What is the average age of the employees ?
+   e. What is the average salary ?
+    f. What is the average years of employees in the company?
+
+⇨ Is attrition affected by a specific Gender ? 
+⇨Is attrition affected by Education?
+⇨Is attrition affected by a specific Age group ?
+⇨ Is attrition was influenced by a specific job role ?
+⇨ Is Salary slab a reason for attrition ?
+⇨Is attrition affected by years of service at that company ?
+⇨what are the reaction of 
+
+By answering these questions and addressing the points mentioned above, we can provide the client with valuable insights and create a comprehensive HR data Analysis Dashboard that meets their requirements.
+
+📌 Steps Applied:
+Here's a breakdown of the project steps:
+Before loading the data in Power BI Pivot tables and charts can be created in excel to uncover patterns or trends.
+
+1️⃣ Understand the Data
+	(i) Get the data and choose transform.
+	(ii) Observe the data carefully to find the way to analyze it.
+
+2️⃣Data Cleaning: To ensure accurate analysis
+	(i) Remove Duplicates, null values (use column quality from view tab)**(sort 	asc, remove rows)**(select all columns with shift, click remove duplicates)
+	(ii) If a field is categorical make sure it does not have any spelling 	mistake 	by clicking the filter sign(click in any value in that column, click 	replace value)
+	(iii) Accurately format data types by selecting all the columns, use transform 	tab, Click Detect data types
+
+3️⃣Data Processing & Analysis: Transforming raw data into a structured format
+	(i) Use cards to Build KPI's , take data columns to fields in Build Viz. Make 	changes to all the necessary formatting , regarding title, colour, font etc. Copy 	and paste the formated card as per the required KPI's and change the value in 	field space.
+	(ii) Create attrition count column using conditional column from add column 	tab in power query editor.
+	(iii) Create new measure(calc field) by clicking in the table in Data tab from 	right.(Attrition Rate=sum(attrition_count)/sum(employee_count))
+	(iv) Take Donut chart, select category as legends(EducationField), 	Value 	as (AttritionCount). For next chart just use copy paste, as i have already 	formatted the current chart
+	(v) Take stacked column chart use age group in x axis and attrition count in y, 	copy paste this chart and use it to check attrition by salary slab. This chart can 	also be used for finding attrition by job role(use filter to find top 5 job role)
+	(vi) Use Matrix to show both row and column values(job role in rows, job 	satisfaction ratings in columns and attrition count in values) format according 	to you.
+	(vii) Use area chart to check attrition by working years and filter it upto 10 year.
+	(viii) Tree map for attrition by gender
+
+Step 4️⃣: Dashboard Creation
+In the final stage, I created a comprehensive dashboard that encapsulated the insights gained from the data analysis. I used an image for the canvas background.
+
+
+🎛️ Filters:
+One filter is used based on departments for enabling further exploration and discovery of insights.
+ 
+🔎 Key Insights:
+1️⃣ Laboratory technicians have the highest attrition rate.
+2️⃣ Male employees are more likely to leave their jobs.
+3️⃣ Employees in the lowest salary slab have the highest attrition.
+4️⃣ Most employees leave after one year of employment.
+5️⃣ The age group of 26-35 is more prone to attrition.
+
+✅🔍 Final Conclusion:
+
+Based on the insights gained, it is recommended to focus on addressing attrition issues among laboratory technicians, male employees, and those in the lowest salary slab. Implementing strategies to improve job satisfaction, career growth opportunities, and benefits can help reduce attrition. Additionally, special attention should be given to employees in the age group of 26-35. This HR Analytics Dashboard provides a valuable tool for tracking attrition patterns and formulating targeted retention strategies.
