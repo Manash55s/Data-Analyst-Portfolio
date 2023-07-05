@@ -1,0 +1,71 @@
+📌 Project Overview:
+In this project, I created a Ecommerce Sales Analysis Dashboard for the years 2011,2012,2013 and 2014. The goal was to provide valuable insights regarding growth in Sales, Profits, & Orders,  enabling informed decision-making for further growth . 📈
+
+📌Analysis Structure:
+
+In order to get valuable insights the following questions and points were considered during the data analysis process:
+
+⇨ Primary KPIs:
+   a. What are the total amount of Sales and YOY Growth ?
+   b. What are the total amount of Profit and YOY Growth ?
+   c. What are the total amount of Quantity sold and YOY Growth ?
+   d. What are the total amount of Orders and YOY Growth ?
+   e. What are the Profit Margin and YOY Growth ?
+
+⇨ How does the trends in profit and sales looks like on a monthly basis ? 
+⇨What is the Category wise profit ?
+⇨What is the category wise share of Sales
+⇨ What is the distribution of total sales based on States ?
+⇨ What are the Top 5 sub categories by Sales ? 
+
+By answering these questions and addressing the points mentioned above, we can provide the client with valuable insights and create a comprehensive commerce Sales Analysis Dashboard that meets their requirements.
+
+📌 Steps Applied:
+Here's a breakdown of the project steps:
+
+1️⃣ Understand the Data
+	(i) Add filters to the header or Change it to table format
+	(ii) Observe the data carefully to find the way to analyze it
+
+2️⃣Data Cleaning: To ensure accurate analysis
+	(i) Make sure date field has the correct data
+	(ii) If a field is categorical make sure it does not have any spelling mistake 	by clicking the filter sign
+
+3️⃣Data Processing: Transforming raw data into a structured format
+	(i) Create necessary columns. 
+
+4️⃣Data Analysis: Uncovering patterns, trends, and correlations
+
+	(i) Created Pivot table based on the Data analyze structure
+	(ii) Created Charts from the Pivot Tables
+	(iii) GetPivotData function was used to extract the Pivot table values 	to 	use it for dynamic dashboard
+	(iv) Created calculated fields for grouping purpose 
+
+Leveraging the power of Pivot Tables and Excel functions, I conducted in-depth data analysis. Pivot tables allowed me to summarize and visualize key metrics effectively. 
+
+Step 5️⃣: Dashboard Creation
+In the final stage, I created a comprehensive dashboard that encapsulated the insights gained from the data analysis. 
+
+🍩Donut chart: For Category wise Sales Share
+
+🗺️Map Chart: Distribution of total sales based on States
+
+🌊📊Waterfall Chart: Category wise profit 
+
+📈Line chart: To compare monthly trend of casualties previous year vs current 	year
+
+📊Clustered bar: Top 5 Sub categories by Sales
+
+🎛️ Slicers:
+Three slicers were utilized based on year ,location & segment enabling further exploration and discovery of insights.
+ 
+🔎 Key Insights:
+1️⃣ In case of Sales, Profit, Quantity and No of Orders the YOY growth is increasing, but Profit Margin is decresing.
+2️⃣ Monthly trends revealed fluctuations in sales and profit, and both of them found to be following almost similar path.
+3️⃣ California shows the highest level of sales among other states.
+4️⃣ Phones are the most sold items followed by chairs.
+5️⃣ Furniture section holds the most sales among other categories but most of the profit is coming from technology section.
+
+✅🔍 Final Conclusion:
+
+The ecommerce sales analysis for the years 2011-2014 reveals positive year-on-year growth in sales, profit, quantity sold, and number of orders. However, the decreasing profit margin requires attention. California emerges as the highest sales contributor, while phones and chairs are the top-selling items. Furniture leads in sales, but technology generates the highest profit. To drive further growth, focus on optimizing profit margins, expanding sales in other states, and capitalizing on popular items and profitable categories.
