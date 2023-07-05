@@ -1,0 +1,72 @@
+📌 Project Overview:
+In this project, I created a Road Accident Dashboard for the years 2021 and 2022. The goal was to provide valuable insights into road accidents and casualties, enabling informed decision-making and preventive measures. 📈
+
+📌Analysis Structure:
+
+In order to address the client's requirements and create a comprehensive Road Accident Dashboard for the years 2021 and 2022, the following questions and points need to be considered during the data analysis process:
+
+⇨ Primary KPIs:
+   a. What are the total casualties that occurred after each accident?
+   b. How do the total casualties correlate with accident severity? What is the 	percentage of total casualties with respect to accident severity?
+   c. Which type of vehicle has the maximum number of casualties?
+
+⇨ How do the total casualties vary based on different vehicle types?
+⇨Can we identify any monthly trends in casualties and compare them between 	the current year and the previous year?
+⇨Which road type has the highest number of casualties?
+⇨ What is the distribution of total casualties based on different road surfaces?
+⇨ Is there any relationship between casualties and the area/location where 	accidents occur? How does it relate to the time of day (day/night)?
+
+By answering these questions and addressing the points mentioned above, we can provide the client with valuable insights and create a comprehensive Road Accident Dashboard that meets their requirements for the years 2021 and 2022.
+
+📌 Steps Applied:
+Here's a breakdown of the project steps:
+
+1️⃣ Understand the Data
+	(i) Add filters to the header or Change it to table format
+	(ii) Observe the data carefully to find the way to analyze it
+
+2️⃣Data Cleaning: To ensure accurate analysis
+	(i) There should be no duplication in Accident index or blank as it is a 	unique field of our data
+	(ii) Make sure date field has the correct data
+	(iii) If a field is categorical make sure it does not have any spelling mistake 	by clicking the filter sign
+
+3️⃣Data Processing: Transforming raw data into a structured format
+	(i) Create necessary columns like Age Group with formulas, extract month, 	year using =TEXT(CELL,"mmm") to showcase trends over time and to 	enable year-on-year comparisons. 
+
+4️⃣Data Analysis: Uncovering patterns, trends, and correlations
+
+	(i) Created Pivot table based on the Data analyze structure
+	(ii) Created Charts from the Pivot Tables
+	(iii) GetPivotData function was used to extract the Pivot table values to 	use it for dynamic dashboard
+	(iv) Created calculated fields for grouping purpose 
+
+Leveraging the power of Pivot Tables and Excel functions, I conducted in-depth data analysis. Pivot tables allowed me to summarize and visualize key metrics effectively. I explored various dimensions, such as severity comparison, vehicle type analysis, and casualties by road type, among others. 📊
+
+Step 5️⃣: Dashboard Creation
+In the final stage, I created a comprehensive dashboard that encapsulated the insights gained from the data analysis. The dashboard provided a holistic view of the road accidents, highlighting the most critical findings. 🚀
+
+🍩Donut chart 1: For Fatal casualties , Serious casualties , Slight casualties , Car 	casualties 
+
+🍩Donut chart 2 with gradient filling: casualties by location/area,  casualties by 	light condition
+
+ 📈Line chart: To compare monthly trend of casualties previous year vs current 	year
+
+📊Clustered bar: To compare casualties by road type
+
+ 🏞️Tree map: To compare casualties by road surface
+
+🎛️ Slicers:
+Two slicers were utilized based on year and location, enabling further exploration and discovery of insights.
+
+ 🌐Hyperlinked: Data analysis sheet, Mail, Dashboard, Online data
+ 
+🔎 Key Insights:
+1️⃣ Most casualties were caused by car accidents.
+2️⃣ Monthly trends revealed fluctuations in casualties, enabling a deeper understanding of accident patterns.
+3️⃣ Urban areas showed a higher propensity for accidents, highlighting the importance of improving safety measures in these regions.
+4️⃣ Daylight accounted for a significant portion of accidents, indicating the need for heightened vigilance and awareness during daytime travel.
+5️⃣ Single carriageways witnessed the highest number of casualties, prompting a closer examination of road infrastructure and safety measures.
+
+✅🔍 Final Conclusion:
+
+Based on the comprehensive analysis of road accidents and casualties for the years 2021 and 2022, several key insights have emerged. Most casualties were caused by car accidents, and there were noticeable monthly fluctuations in casualties, indicating the presence of accident patterns. Urban areas exhibited a higher incidence of accidents, emphasizing the need for improved safety measures. Daylight accounted for a significant portion of accidents, suggesting the importance of heightened vigilance during daytime travel. Single carriageways had the highest number of casualties, highlighting the need for closer examination of road infrastructure and safety measures.
