@@ -1,0 +1,56 @@
+📌 Project Overview:
+The dataset included key information such as order ID, customer ID, gender, age, date, status, channel, SKU, category, size, quantity, currency, amount, and shipping city. With the objective of creating an annual sales report, I embarked on a journey to explore this data and extract meaningful insights. 📊
+
+📌Analysis Structure:
+⇨ Compare the sales and orders using single chart
+⇨ Which month got the highest sales and orders?
+⇨ Who purchased more- men or women in 2022?
+⇨ What are different order status in 2022?
+⇨ List top 10 states contributing to the sales?
+⇨ Relation between age and gender based on number of orders
+⇨ Which channel is contributing to maximum sales?
+⇨ Highest selling category?
+
+📌 Steps Applied:
+Here's a glimpse of the steps involved in this analysis:
+1️⃣ Understand the Data
+	(i) Add filters to the header
+	(ii) Observe the data carefully to find the way to analyze it
+2️⃣ Data Cleaning:
+	(i) Remove Duplicates, null values using Data Tab
+	(ii) Find & Replace necessary data (Gender Column)
+3️⃣ Data Processing: Transforming raw data into a structured format
+	(i) Create necessary columns like Age Group with formulas, extract month, year using =TEXT(CELL,"mmm")
+4️⃣ Data Analysis: Uncovering patterns, trends, and correlations.
+	(i) Create Pivot table based on the Data analyze structure
+	(ii) Creating Charts from the Pivot Tables
+	(iii) Use of secondary axis to compare different scales values
+	(iv) Format the axis using format code 0.00,,''M''
+5️⃣ Interactive Dashboard: Presenting the findings in a visually appealing manner.
+
+📊📉 Clustered Column Line Chart: Comparing sales and orders with respect to months
+
+🍕 - Pie Chart 1: Comparing sales among Man and woman
+
+🍕 - Pie Chart 2: Comparing different categories of order status
+
+📊 Clustered Bar Chart: For top 5 States based on sales
+
+📊 Clustered Column Chart: Percentage of Sales among Age groups and Gender
+
+🍕 - Pie Chart 3: Orders through different channels
+
+🎛️ Slicers:
+Three slicers were utilized to explore insights and further interation based on Month, Channel, and Category of goods.
+
+✨ Insights:
+Here are some key insights gained from the analysis:
+
+1️⃣ Young adult women tend to make more purchases compared to other genders and age groups.
+2️⃣ Both orders and sales exhibit a consistent trend throughout the year, with peak sales occurring in March and August.
+3️⃣ The majority of sales are generated from the states of Maharashtra, Karnataka, and Uttar Pradesh.
+4️⃣ Approximately 92% of orders were successfully delivered.
+5️⃣ Amazon is the dominant sales channel for most transactions.
+
+✅🔍 Final Conclusion:
+To maximize sales, it is recommended to target women customers in the age group of 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. Promote your products through ads, offers, and coupons available on popular platforms such as Amazon, Flipkart, and Myntra. This targeted approach will help capture the attention of the intended audience and potentially boost sales.

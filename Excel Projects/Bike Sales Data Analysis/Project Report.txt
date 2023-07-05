@@ -1,0 +1,36 @@
+📌 Project Overview:
+For this beginner-level project, I delved into the world of bike sales data, which includes attributes like ID, Marital status, Gender, Income, Children, Education, Occupation, Home Owner, Cars, Commute Distance, Region, Age, Age Brackets, and Purchased Bike. The main objective was to create a comprehensive sales report to understand our customers and drive sales growth by leveraging the insights gained. 📈
+
+📌 Steps Applied:
+To derive meaningful insights from the data, I followed a structured approach:
+
+1️⃣ Understand the Data
+	(i) Add filters to the header
+	(ii) Observe the data carefully to find the way to analyze it
+2️⃣ Data Cleaning
+	(i) Remove Duplicates using Data Tab
+	(ii) Find & Replace necessary data (ctrl+F)
+3️⃣ Data Processing
+	(i) Create necessary columns like Age Group with formulas
+	(ii) Create Pivot table based on the Data analyze structure
+	(iii) Creating Charts from the Pivot Tables
+4️⃣ Interactive Dashboard with Three Graphs:
+
+📊 Bar Chart:
+Comparing the average salary of customers who purchased a bike versus those who didn't, based on gender.
+
+📈 Line Chart 1:
+Analyzing bike sales based on the age of customers.
+
+📈 Line Chart 2:
+Examining bike sales based on the customers' commute distance.
+
+🎛️ Slicers:
+Three slicers were utilized to explore insights based on Marital Status, Region, and Education Level of the customers.
+
+✨ Insights:
+Here are some key insights I gained from the analysis:
+
+1️⃣ Male customers with an average salary of more than $60,124 are more likely to purchase bikes.
+2️⃣ Middle-aged individuals, specifically those in the age group of 31-54, show a higher inclination towards buying bikes.
+3️⃣ While there isn't a definitive pattern regarding the relationship between bike sales and commute distance, it appears that customers who travel between 0 to 1 mile are more inclined to purchase bikes.
