@@ -1,0 +1,47 @@
+📌 Project Overview:
+In this project, I created an Income statement Dashboard using Power BI. The goal was to analyze the income statement data and discover valuable insights.
+
+📌Analysis Structure:
+
+In order to get valuable insights the following questions and points were considered during the data analysis process:
+
+⇨ Primary KPIs:
+   a. What is Net Income ?
+   b. What is Total Revenue?
+   c. What is operating income ?
+
+⇨ Show descirption of FY21 and FY22
+⇨Show comparison between profit and sales revenue
+
+By answering these questions and addressing the points mentioned above, we can provide the client with valuable insights and create a comprehensive HR data Analysis Dashboard that meets their requirements.
+
+📌 Steps Applied:
+Here's a breakdown of the project steps:
+
+1️⃣ Understand the Data
+	(i) Get the data and choose transform.
+	(ii) Observe the data carefully to find the way to analyze it.
+
+2️⃣Data Cleaning: To ensure accurate analysis
+	(i) Remove Duplicates, null values 
+	(ii) If a field is categorical make sure it does not have any spelling 	mistake 	by clicking the filter sign(click in any value in that column, 	click 	replace value)
+	(iii) Accurately format data types by selecting all the columns, use 	transform 	tab, Click Detect data types
+
+3️⃣Data Processing & Analysis: Transforming raw data into a structured format
+	(i) Use KPI's to Build KPI's , Fill current and target value with trend axis 	Copy and paste the formated card as per the 	required 	KPI's and 	change the value in field space.
+	(ii) Create index column to add tables in dashboard for right row config.
+	(iii) Clustered column chart for visualizing the comparison between profit 	and revenue
+
+Step 4️⃣: Dashboard Creation
+In the final stage, I created a comprehensive dashboard that encapsulated the insights gained from the data analysis. I used an image for the canvas background.
+
+ 
+🔎 Key Insights:
+1️⃣ Net income has increased by 18.7% compared to FY21.
+2️⃣ Total revenue has increased by 17.9% compared to FY21.
+3️⃣ Operating income has increased by 19.2% compared to FY21.
+4️⃣ Net income and revenue exhibit a similar trend over the recent financial years.
+
+✅🔍 Final Conclusion:
+✅🔍 Final Conclusion:
+The Income Statement Dashboard analysis revealed positive financial growth, with net income increasing by 18.7% and total revenue by 17.9% compared to FY21. Operating income also saw a notable rise of 19.2%. These findings provide valuable insights for informed decision-making and strategic planning, indicating improved financial performance. The dashboard serves as a powerful tool for monitoring and analyzing income statement data.

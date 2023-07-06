@@ -1,0 +1,102 @@
+📌 Project Overview:
+In this project, I created an Data professional survey Dashboard using Power BI. The goal was to understand the current trends in data professions and gain insights of current job scenario in data fields.
+
+📌Analysis Structure:
+
+In order to get valuable insights the following questions and points were considered during the data analysis process:
+
+⇨ Primary KPIs:
+   a. What is the Total Survey Takers ?
+   b. What is the Average Age?
+
+⇨ Most of the survey takers are from which country ?
+⇨What is the average salary by job title ?
+⇨What is the most favourite programming language?
+⇨What is the average salary by gender?
+⇨How does the work/life scenario looks like ?
+⇨Are they happy with Salary ?
+
+By answering these questions and addressing the points mentioned above, we create a comprehensive Dashboard that meets the requirements.
+
+📌 Steps Applied:
+Here's a breakdown of the project steps:
+Before loading the data in Power BI Pivot tables and charts can be created in excel to uncover patterns or trends.
+
+1️⃣ Understand the Data
+	(i) Get the data and choose transform.
+	(ii) Observe the data carefully to find the way to analyze it.
+
+2️⃣Data Cleaning: To ensure accurate analysis
+	(i) Remove Duplicates, null values 
+	(ii) If a field is categorical make sure it does not have any spelling 	mistake 	by clicking the filter sign(click in any value in that column, 	click 	replace value)
+	(iii) Accurately format data types by selecting all the columns, use 	transform 	tab, Click Detect data types
+
+3️⃣Data Processing & Analysis: Transforming raw data into a structured format
+	(i) Use cards to Build KPI's , take data columns to fields in Build Viz. 	Make 	changes to all the necessary formatting , regarding title, 	colour, font etc. Copy 	and paste the formated card as per the 	required 	KPI's and change the value in 	field space.
+	(ii) Create necessary columns(split column,add column, conditional 	column)
+	(iii) Gauge chart for work/life balance and happiness with salary
+	(iv) Donut chart for avegare male and female salary
+	(v) Stacked column chart for most favourite language
+	(vi) Tree map for checking country of survey takers
+	(vii) Stacked bar chart for average salary of different job roles.
+
+Step 4️⃣: Dashboard Creation
+In the final stage, I created a comprehensive dashboard that encapsulated the insights gained from the data analysis. I used an image for the canvas background.
+ 
+🔎 Key Insights:
+1️⃣ The majority of survey takers are from the USA.
+2️⃣ Python is the most favored programming language.
+3️⃣ Data scientists have the highest average salary.
+4️⃣ Average salary is higher for females compared to males.
+5️⃣ Work/life balance and salary satisfaction are areas of concern for many respondents.
+
+✅🔍 Final Conclusion:
+
+📌 Project Overview:
+In this project, I created a Data Professionals Survey Dashboard using Power BI. The goal was to understand the current trends in data professions and gain insights into the current job scenario in the data field.
+
+📌 Analysis Structure:
+To obtain valuable insights, the following questions and points were considered during the data analysis process:
+
+⇨ Primary KPIs:
+a. Total Survey Takers
+b. Average Age
+
+⇨ Which country has the highest number of survey takers?
+⇨ What is the average salary by job title?
+⇨ Which programming language is the most favored?
+⇨ What is the average salary by gender?
+⇨ How does the work/life scenario look?
+⇨ Are survey takers satisfied with their salary?
+
+By answering these questions and addressing the points mentioned above, we can create a comprehensive Dashboard that meets the requirements.
+
+📌 Steps Applied:
+Here's a breakdown of the project steps:
+
+1️⃣ Understand the Data
+(i) Get the data and choose transform.
+(ii) Observe the data carefully to find the way to analyze it.
+
+2️⃣ Data Cleaning: Ensuring accurate analysis
+(i) Remove duplicates and null values.
+(ii) Check and correct any spelling mistakes in categorical fields.
+(iii) Accurately format data types.
+
+3️⃣ Data Processing & Analysis: Transforming raw data into a structured format
+(i) Build KPIs using cards and format them as required.
+(ii) Create necessary columns using techniques like splitting columns, adding columns, and applying conditional logic.
+(iii) Use visualizations such as gauge charts, donut charts, stacked column charts, tree maps, and stacked bar charts to analyze work/life balance, salary satisfaction, favorite programming language, country distribution, and average salary by job roles.
+
+Step 4️⃣: Dashboard Creation
+In the final stage, I created a comprehensive dashboard that encapsulated the insights gained from the data analysis. An image was used for the canvas background.
+
+🔎 Key Insights:
+1️⃣ The majority of survey takers are from the USA.
+2️⃣ Python is the most favored programming language.
+3️⃣ Data scientists have the highest average salary.
+4️⃣ Average salary is higher for females compared to males.
+5️⃣ Work/life balance and salary satisfaction are areas of concern for many respondents.
+
+✅🔍 Final Conclusion:
+Based on the insights obtained, it is evident that there is a strong presence of data professionals in the USA, with Python being the preferred programming language. Data scientists command the highest average salary, and it is notable that the average salary for females is higher. The survey reveals that many respondents express dissatisfaction with their salary and work/life balance. These findings highlight areas for improvement and can guide organizations in creating strategies to attract and retain data professionals.
