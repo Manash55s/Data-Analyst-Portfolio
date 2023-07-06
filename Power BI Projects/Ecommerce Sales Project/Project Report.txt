@@ -1,0 +1,59 @@
+📌 Project Overview:
+In this project, I created an Ecommerce Sales Analytics Dashboard using Power BI. The goal was to help an organization to improve ecommerce sales performance by tracking and analyzing online sales across India.
+
+📌Analysis Structure:
+
+In order to get valuable insights the following questions and points were considered during the data analysis process:
+
+⇨ Primary KPIs:
+   a. What is the Total Sales ?
+   b. What is the Total Profit?
+   c. What is the Total Quantity ?
+   d. What is the total average order value ?
+
+⇨ Which category has maximum amount of sales ?
+⇨Which payment mode were used for most of the sales ?
+⇨What is the trend of profit with respect to months ?
+⇨ What are the top 5 sub categories based on profit?
+⇨ What are the top 5 states based on sales?
+⇨Top 5 customers based on sales ?
+
+By answering these questions and addressing the points mentioned above, we can provide the client with valuable insights and create a comprehensive HR data Analysis Dashboard that meets their requirements.
+
+📌 Steps Applied:
+Here's a breakdown of the project steps:
+Before loading the data in Power BI Pivot tables and charts can be created in excel to uncover patterns or trends.
+
+1️⃣ Understand the Data
+	(i) Get the data and choose transform.
+	(ii) Observe the data carefully to find the way to analyze it.
+
+2️⃣Data Cleaning: To ensure accurate analysis
+	(i) Remove Duplicates, null values 
+	(ii) If a field is categorical make sure it does not have any spelling 	mistake 	by clicking the filter sign(click in any value in that column, 	click 	replace value)
+	(iii) Accurately format data types by selecting all the columns, use 	transform 	tab, Click Detect data types
+
+3️⃣Data Processing & Analysis: Transforming raw data into a structured format
+	(i) Use cards to Build KPI's , take data columns to fields in Build Viz. 	Make 	changes to all the necessary formatting , regarding title, 	colour, font etc. Copy 	and paste the formated card as per the required 	KPI's and change the value in 	field space.
+	(ii) Create Average Order value column (sales amount/quantity)
+	(iii) Donut chart fro sales by category and payment mode
+	(iv) Stacked bar chart for Profit by sub-category, top 5 customers and sales 	by state
+	(v) Stacked column chart for monthly trends of profit
+
+Step 4️⃣: Dashboard Creation
+In the final stage, I created a comprehensive dashboard that encapsulated the insights gained from the data analysis. I used an image for the canvas background.
+
+
+🎛️ Filters:
+One filter is used based on Yearly quarters for enabling further exploration and discovery of insights.
+ 
+🔎 Key Insights:
+1️⃣ Electronics category has the highest sales.
+2️⃣ Profit is higher in certain months, such as January, February, March, August, and October.
+3️⃣ Printers contribute significantly to the overall profit.
+4️⃣ Cash on Delivery (COD) is the preferred payment mode for most sales.
+5️⃣ Maharashtra has the highest sales among all states.
+
+✅🔍 Final Conclusion:
+Based on the insights gained, it is recommended to focus on boosting sales in the electronics category, especially for products like printers. Further attention should be given to optimizing the profit margin in months with higher profitability. Additionally, the popularity of Cash on Delivery suggests the importance of providing convenient payment options for customers. Targeting Maharashtra specifically can help maximize sales potential. This Ecommerce Sales Analytics Dashboard provides a valuable tool for monitoring and enhancing sales performance in the organization.
+
